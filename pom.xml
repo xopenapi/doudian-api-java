@@ -4,9 +4,9 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.lucfish.openapi</groupId>
+    <groupId>io.github.xopenapi</groupId>
     <artifactId>doudian</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <description>抖店开放平台(v2) Java SDK</description>
     <name>doudian-api-java</name>
     <url>https://github.com/xopenapi/doudian-api-java</url>

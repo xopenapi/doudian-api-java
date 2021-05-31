@@ -4,7 +4,7 @@
 将项目安装到本地maven，通过坐标引用
 ```xml
 <dependency>
-    <groupId>com.lucfish.openapi</groupId>
+    <groupId>io.github.xopenapi</groupId>
     <artifactId>doudian</artifactId>
     <version>1.0.0</version>
 </dependency>
