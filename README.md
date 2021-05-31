@@ -1,23 +1,12 @@
 ## 抖音开放平台(v2) Java SDK
 ### 快速开始
-```bash
-
-cd 你的工作空间
-
-git clone https://github.com/BekeyChao/tiktok_open.git
-
-cd tiktok_open
-
-mvn install
-
-```
 
 将项目安装到本地maven，通过坐标引用
 ```xml
 <dependency>
-    <groupId>xyz.bekey</groupId>
-    <artifactId>tiktokOpen</artifactId>
-    <version>1.1.4</version>
+    <groupId>com.lucfish.openapi</groupId>
+    <artifactId>doudian</artifactId>
+    <version>1.0.0</version>
 </dependency>
 ```
 
@@ -70,6 +59,3 @@ public void productGetCategoryTest() {
 }
 ```
 
-### 项目进度
-因为项目为根据公司业务进度逐步开发，并未完全实现所有接口，并且未为每个接口写下测试用例。
-不过大部分接口已经经历了上线实测，不过依然建议您在使用时做好充分测试！
