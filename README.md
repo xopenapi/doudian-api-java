@@ -1,12 +1,12 @@
 ## 抖音开放平台(v2) Java SDK
 ### 快速开始
 
-将项目安装到本地maven，通过坐标引用
+将项目安装到本地maven，通过坐标引用，最新版本 1.0.1
 ```xml
 <dependency>
     <groupId>io.github.xopenapi</groupId>
     <artifactId>doudian</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
 </dependency>
 ```
 
